@@ -50,7 +50,9 @@
    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-## 💻 GitHub Profile Stats
+<details> 
+    <summary>💻 GitHub Profile Stats</summary>
+    <br/>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hencya&show_icons=true&theme=monokai&locale=en&layout=compact&langs_count=10&hide=html,css,vue,cmake,jupyter%20notebook,scss,tex,smarty&exclude_repo=dotfiles,laravel-react-starter" alt="Top Lang"/>
 </p>
@@ -60,3 +62,5 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hencya&theme=monokai" alt="Hencya"/>
 </p>
+    </details>
+<br/>
