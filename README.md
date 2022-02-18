@@ -48,11 +48,19 @@
    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
    <a href="https://insomnia.com" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/insomnia.svg" alt="insomnia" width="40" height="40"/> </a> </p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Hencya&&theme=xcode)](https://github.com/Hencya)
-
+<details> 
+    <summary>💻 GitHub Profile Stats</summary>
+    <br/>
+<p> <img align="left" src="https://activity-graph.herokuapp.com/graph?username=Hencya&&theme=xcode" alt="Top Lang"/>
+</p>
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hencya&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=10&hide=html,css,vue,cmake,jupyter%20notebook,scss,tex,smarty&exclude_repo=dotfiles,laravel-react-starter" alt="Top Lang"/>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hencya&show_icons=true&locale=en&theme=tokyonight" alt="Hencya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hencya&&theme=tokyonight" alt="Hencya" /></p>
+    </details>
+<br/>
+
+
+
