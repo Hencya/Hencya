@@ -51,16 +51,7 @@
 <details> 
     <summary>💻 GitHub Profile Stats</summary>
     <br/>
-<p> <img align="left" src="https://activity-graph.herokuapp.com/graph?username=Hencya&&theme=xcode" alt="Top Lang"/>
-</p>
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hencya&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=10&hide=html,css,vue,cmake,jupyter%20notebook,scss,tex,smarty&exclude_repo=dotfiles,laravel-react-starter" alt="Top Lang"/>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hencya&show_icons=true&locale=en&theme=tokyonight" alt="Hencya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hencya&&theme=tokyonight" alt="Hencya" /></p>
-    </details>
-<br/>
-
 
 
