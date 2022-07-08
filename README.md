@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at this github
 
-- 📫 How to reach me **faiz.rofi01@gmail.com**
+- 📫 How to reach me **faizrofihencya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
