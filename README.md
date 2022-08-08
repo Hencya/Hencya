@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently an undergraduate student on **Telkom University**
 
-- 🌱 I’m currently learning about **Backend Engineer**
+- 🌱 I’m currently learning about **Backend Developer**
 
 - 👨‍💻 All of my projects are available at this github
 
