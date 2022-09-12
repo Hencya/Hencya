@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/a79e86dc3bb424784b3a727d304a261742a9376f04cf7a74e26f7172cdc2819f/68747470733a2f2f736572767265616c6974792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30372f474f2d446576656c6f706d656e742d42616e6e65722e6a7067)](https://rishavchanda.io)
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%23EB2754&size=40&center=true&width=600&height=69&lines=Hi+there+👋;Faiz+Rofi+Hencya+here!" alt="Typing SVG">
 </p>
